@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Andreza\\source\\repos\\Aula6\\exercicio2\\exercicio2.csproj",
-      "projectName": "exercicio2",
-      "projectPath": "C:\\Users\\Andreza\\source\\repos\\Aula6\\exercicio2\\exercicio2.csproj",
+      "projectUniqueName": "D:\\Cursos\\Cs\\Módulo 0\\Coding-Girls\\Semana 2\\Aula6\\exercicio2-atualizado\\exercicio2-atualizado.csproj",
+      "projectName": "exercicio2-atualizado",
+      "projectPath": "D:\\Cursos\\Cs\\Módulo 0\\Coding-Girls\\Semana 2\\Aula6\\exercicio2-atualizado\\exercicio2-atualizado.csproj",
       "packagesPath": "C:\\Users\\Andreza\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Andreza\\source\\repos\\Aula6\\exercicio2\\obj\\",
+      "outputPath": "D:\\Cursos\\Cs\\Módulo 0\\Coding-Girls\\Semana 2\\Aula6\\exercicio2-atualizado\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Andreza\\AppData\\Roaming\\NuGet\\NuGet.Config",

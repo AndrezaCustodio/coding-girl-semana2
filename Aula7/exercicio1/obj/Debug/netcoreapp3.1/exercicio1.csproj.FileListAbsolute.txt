@@ -1,0 +1,14 @@
+D:\Cursos\Cs\Módulo 0\Coding-Girls\Semana 2\Aula7\exercicio1\bin\Debug\netcoreapp3.1\exercicio1.exe
+D:\Cursos\Cs\Módulo 0\Coding-Girls\Semana 2\Aula7\exercicio1\bin\Debug\netcoreapp3.1\exercicio1.deps.json
+D:\Cursos\Cs\Módulo 0\Coding-Girls\Semana 2\Aula7\exercicio1\bin\Debug\netcoreapp3.1\exercicio1.runtimeconfig.json
+D:\Cursos\Cs\Módulo 0\Coding-Girls\Semana 2\Aula7\exercicio1\bin\Debug\netcoreapp3.1\exercicio1.runtimeconfig.dev.json
+D:\Cursos\Cs\Módulo 0\Coding-Girls\Semana 2\Aula7\exercicio1\bin\Debug\netcoreapp3.1\exercicio1.dll
+D:\Cursos\Cs\Módulo 0\Coding-Girls\Semana 2\Aula7\exercicio1\bin\Debug\netcoreapp3.1\exercicio1.pdb
+D:\Cursos\Cs\Módulo 0\Coding-Girls\Semana 2\Aula7\exercicio1\obj\Debug\netcoreapp3.1\exercicio1.csproj.AssemblyReference.cache
+D:\Cursos\Cs\Módulo 0\Coding-Girls\Semana 2\Aula7\exercicio1\obj\Debug\netcoreapp3.1\exercicio1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cursos\Cs\Módulo 0\Coding-Girls\Semana 2\Aula7\exercicio1\obj\Debug\netcoreapp3.1\exercicio1.AssemblyInfoInputs.cache
+D:\Cursos\Cs\Módulo 0\Coding-Girls\Semana 2\Aula7\exercicio1\obj\Debug\netcoreapp3.1\exercicio1.AssemblyInfo.cs
+D:\Cursos\Cs\Módulo 0\Coding-Girls\Semana 2\Aula7\exercicio1\obj\Debug\netcoreapp3.1\exercicio1.csproj.CoreCompileInputs.cache
+D:\Cursos\Cs\Módulo 0\Coding-Girls\Semana 2\Aula7\exercicio1\obj\Debug\netcoreapp3.1\exercicio1.dll
+D:\Cursos\Cs\Módulo 0\Coding-Girls\Semana 2\Aula7\exercicio1\obj\Debug\netcoreapp3.1\exercicio1.pdb
+D:\Cursos\Cs\Módulo 0\Coding-Girls\Semana 2\Aula7\exercicio1\obj\Debug\netcoreapp3.1\exercicio1.genruntimeconfig.cache

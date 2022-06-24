@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "hGZC3SWrd3YRj4BMvnBPafK/FXJ2IL+cp5PO0b2cepY+fyuo6Lq41WSgrS9xkLO0MrLPzECTgPEiXV2rtkCEYQ==",
+  "success": true,
+  "projectFilePath": "D:\\Cursos\\Cs\\Módulo 0\\Coding-Girls\\Semana 2\\Aula7\\exercicio2\\exercicio2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Andreza\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.26\\microsoft.netcore.app.host.win-x64.3.1.26.nupkg.sha512",
+    "C:\\Users\\Andreza\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\Andreza\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\Andreza\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

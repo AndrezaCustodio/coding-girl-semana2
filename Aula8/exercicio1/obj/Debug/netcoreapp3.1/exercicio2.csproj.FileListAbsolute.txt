@@ -1,0 +1,19 @@
+C:\Users\Andreza\source\repos\Aula8\exercicio1\obj\Debug\netcoreapp3.1\exercicio2.csproj.AssemblyReference.cache
+C:\Users\Andreza\source\repos\Aula8\exercicio1\obj\Debug\netcoreapp3.1\exercicio2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Andreza\source\repos\Aula8\exercicio1\obj\Debug\netcoreapp3.1\exercicio2.AssemblyInfoInputs.cache
+C:\Users\Andreza\source\repos\Aula8\exercicio1\obj\Debug\netcoreapp3.1\exercicio2.AssemblyInfo.cs
+C:\Users\Andreza\source\repos\Aula8\exercicio1\obj\Debug\netcoreapp3.1\exercicio2.csproj.CoreCompileInputs.cache
+D:\Cursos\Cs\Módulo 0\Coding-Girls\Semana 2\Aula8\exercicio1\bin\Debug\netcoreapp3.1\exercicio2.exe
+D:\Cursos\Cs\Módulo 0\Coding-Girls\Semana 2\Aula8\exercicio1\bin\Debug\netcoreapp3.1\exercicio2.deps.json
+D:\Cursos\Cs\Módulo 0\Coding-Girls\Semana 2\Aula8\exercicio1\bin\Debug\netcoreapp3.1\exercicio2.runtimeconfig.json
+D:\Cursos\Cs\Módulo 0\Coding-Girls\Semana 2\Aula8\exercicio1\bin\Debug\netcoreapp3.1\exercicio2.runtimeconfig.dev.json
+D:\Cursos\Cs\Módulo 0\Coding-Girls\Semana 2\Aula8\exercicio1\bin\Debug\netcoreapp3.1\exercicio2.dll
+D:\Cursos\Cs\Módulo 0\Coding-Girls\Semana 2\Aula8\exercicio1\bin\Debug\netcoreapp3.1\exercicio2.pdb
+D:\Cursos\Cs\Módulo 0\Coding-Girls\Semana 2\Aula8\exercicio1\obj\Debug\netcoreapp3.1\exercicio2.csproj.AssemblyReference.cache
+D:\Cursos\Cs\Módulo 0\Coding-Girls\Semana 2\Aula8\exercicio1\obj\Debug\netcoreapp3.1\exercicio2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cursos\Cs\Módulo 0\Coding-Girls\Semana 2\Aula8\exercicio1\obj\Debug\netcoreapp3.1\exercicio2.AssemblyInfoInputs.cache
+D:\Cursos\Cs\Módulo 0\Coding-Girls\Semana 2\Aula8\exercicio1\obj\Debug\netcoreapp3.1\exercicio2.AssemblyInfo.cs
+D:\Cursos\Cs\Módulo 0\Coding-Girls\Semana 2\Aula8\exercicio1\obj\Debug\netcoreapp3.1\exercicio2.csproj.CoreCompileInputs.cache
+D:\Cursos\Cs\Módulo 0\Coding-Girls\Semana 2\Aula8\exercicio1\obj\Debug\netcoreapp3.1\exercicio2.dll
+D:\Cursos\Cs\Módulo 0\Coding-Girls\Semana 2\Aula8\exercicio1\obj\Debug\netcoreapp3.1\exercicio2.pdb
+D:\Cursos\Cs\Módulo 0\Coding-Girls\Semana 2\Aula8\exercicio1\obj\Debug\netcoreapp3.1\exercicio2.genruntimeconfig.cache
